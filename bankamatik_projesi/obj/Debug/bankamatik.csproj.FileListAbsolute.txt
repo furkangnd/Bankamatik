@@ -1,0 +1,6 @@
+/Users/gnd/Projects/bankamatik/bankamatik/bin/Debug/bankamatik.exe
+/Users/gnd/Projects/bankamatik/bankamatik/bin/Debug/bankamatik.pdb
+/Users/gnd/Projects/bankamatik/bankamatik/obj/Debug/bankamatik.csproj.AssemblyReference.cache
+/Users/gnd/Projects/bankamatik/bankamatik/obj/Debug/bankamatik.csproj.CoreCompileInputs.cache
+/Users/gnd/Projects/bankamatik/bankamatik/obj/Debug/bankamatik.exe
+/Users/gnd/Projects/bankamatik/bankamatik/obj/Debug/bankamatik.pdb

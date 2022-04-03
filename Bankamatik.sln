@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bankamatik", "bankamatik\Bankamatik.csproj", "{6518708A-2C85-43E6-B14F-56970980D04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6518708A-2C85-43E6-B14F-56970980D04A}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6518708A-2C85-43E6-B14F-56970980D04A}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6518708A-2C85-43E6-B14F-56970980D04A}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6518708A-2C85-43E6-B14F-56970980D04A}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52D71928-3A60-4C25-A55C-438D7E9FA8F8}
+	EndGlobalSection
+EndGlobal
