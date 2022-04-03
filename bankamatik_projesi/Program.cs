@@ -505,16 +505,3 @@ namespace Bankamatik
         } 
     }
 }
-/*
-
-Console.WriteLine("Elektrik Faturası     1\n" +
-             "Telefon Faturası        2\n" +
-             "İnternet faturası       3\n" +
-             "Su Faturası             4\n" +
-             "OGS Ödemeleri           5\nSeçiminiz:");
-
-Console.WriteLine("Elektrik Faturası 1\nTelefon Faturası2\nİnternet Faturası 3\nSu Faturası 4\OGS Ödemesi 5\n Seçiminiz: ");
-
-
-
-*/
