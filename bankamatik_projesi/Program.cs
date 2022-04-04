@@ -38,9 +38,6 @@ namespace Bankamatik
                     }
                 }
 
-
-
-
                 if (Giris) // if(true)
                 {
                 ANAMENU:
